@@ -20,4 +20,4 @@
 
 | Fedora Cosmic Config |
 | ------------------- |
-| [Fedora Cosmic Config](https://github.com/samwhelp/fedora-cosmic-adjustment/tree/main/prototype/main/cosmic-config/Main) |
+| [Fedora Cosmic Config](https://github.com/samwhelp/fedora-cosmic-adjustment/tree/main/prototype/main/cosmic-config/full/Main) |
